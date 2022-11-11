@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860372764549",
+    "project_id": "note-app-test-auth-firestore",
+    "storage_bucket": "note-app-test-auth-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860372764549:android:8f869b071d9d05eb9766ec",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860372764549-j2pukgucd9htm3v3p8tecrm2lckig9dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzX5hHM3CEha51B-X6Y3LywCu6l5yQdek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860372764549-j2pukgucd9htm3v3p8tecrm2lckig9dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
